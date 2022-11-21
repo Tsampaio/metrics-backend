@@ -1,0 +1,24 @@
+{
+  "name": "connexone-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "@types/express-prometheus-middleware": "^1.2.1",
+    "express-prometheus-middleware": "^1.2.0",
+    "nodemon": "^2.0.20",
+    "prom-client": "^14.1.0",
+    "typescript": "^4.9.3"
+  }
+}
